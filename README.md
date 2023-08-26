@@ -11,3 +11,10 @@ Belajar kelas memulai pemrograman dengan Java. (progres 56%)
  * Belajar dasar Java
  * Belajar control flow dalam Java
  * Belajar tipe data koleksi
+
+**20 Juni 2021**  
+Belajar kelas memulai pemrograman Java (progress 100%)
+ * Belajar konsep OOP
+ * Belajar class
+ * Berlatih membuat program menghitung
+ * Mnegerjakan ujian
