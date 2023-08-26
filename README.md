@@ -17,4 +17,4 @@ Belajar kelas memulai pemrograman Java (progress 100%)
  * Belajar konsep OOP
  * Belajar class
  * Berlatih membuat program menghitung
- * Mnegerjakan ujian
+ * Mengerjakan ujian
